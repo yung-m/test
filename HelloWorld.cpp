@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
+	int c;
 	int a;
 	cin>>a;
 	if(a==1){
